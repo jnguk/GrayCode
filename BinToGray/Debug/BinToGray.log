@@ -1,0 +1,4 @@
+﻿  BinToGray.cpp
+F:\Code\C++\BinToGray\BinToGray\BinToGray.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+F:\Code\C++\BinToGray\BinToGray\BinToGray.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  BinToGray.vcxproj -> F:\Code\C++\BinToGray\Debug\BinToGray.exe
